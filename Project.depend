@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1672195950 source:c:\users\mohamed ahmed\documents\codeblocks\project\main.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+
